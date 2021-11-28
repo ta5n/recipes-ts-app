@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Baked Salmon",
+    "ingredients": [
+      { "name": "1 lb Salmon", "amount": 1, "measurement": "lb" },
+      { "name": "1 cup Pine Nuts", "amount": 1, "measurement": "cup" },
+      { "name": "2 tsp Butter Lettuce", "amount": 2, "measurement": "tsp" },
+      { "name": "1 Yellow Squash", "amount": 1, "measurement": "1" },
+      { "name": "1/2 cup Olive Oil", "amount": 0.5, "measurement": "cup" },
+      { "name": "1/4 cup Olive Oil", "amount": 0.25, "measurement": "cup" },
+      { "name": "Salt and Pepper", "amount": "to taste" },
+      { "name": "Bread Crumbs", "amount": "to taste" }
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F.",
+      "Place the salmon in a rolodex or clean plastic bag.",
+      "Sprinkle with the nutmeg.",
+      "Add the garlic, yellow squash, lemon juice, olive oil, and a pinch of salt and pepper.",
+      "Bake for 15 minutes or until the fish flakes easily with a fork.",
+      "Add the wine vinegar and continue baking for another 10 to 15 minutes or until the fish flakes easily with a fork."
+    ]
+  },
+  {
+    "title": "Fish Tacos",
+    "ingredients": [
+      { "name": "8 oz Salmon", "amount": 8, "measurement": "oz" },
+      { "name": "1/2 cup Corn Tortillas", "amount": 0.5, "measurement": "cup" },
+      { "name": "1/4 cup Rice", "amount": 0.25, "measurement": "cup" },
+      { "name": "1/4 cup Butter", "amount": 0.25, "measurement": "cup" },
+      { "name": "1/2 cup Jack Cheese", "amount": 0.5, "measurement": "cup" },
+      { "name": "1/4 cup Monterey Jack Cheese", "amount": 0.25, "measurement": "cup" },
+      { "name": "3 tbsp Sour Cream", "amount": 3, "measurement": "tbsp" },
+      { "name": "1 tbsp Fresh Cilantro", "amount": 1, "measurement": "tbsp" },
+      { "name": "1/2 tsp Salt", "amount": 0.5, "measurement": "tsp" },
+      { "name": "1/2 tsp Pepper", "amount": 0.5, "measurement": "tsp" }
+    ],
+    "steps": [
+      "Cook the salmon on the grill until it’s pink and opaque, 3 to 5 minutes per side.",
+      "While the salmon is cooking, warm the tortillas in a microwave safe bowl to room temperature.",
+      "Place the salmon on the hot tortillas, top with the rice, butter, jack cheese, monterey jack cheese, sour cream, cilantro, and season with salt and pepper.",
+      "Serve with lime wedges."
+    ]
+  }
+]
